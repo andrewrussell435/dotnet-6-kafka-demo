@@ -1,0 +1,1 @@
+# .net-6-kafka-demo
